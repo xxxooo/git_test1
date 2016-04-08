@@ -1,4 +1,5 @@
----
+--- # list for test
+Date: 2016-04-07
 Brand names start with [A]:
   - ASUS
   - Apple
@@ -6,10 +7,10 @@ Brand names start with [B]:
   - BMW
   - BOSE
 Brand names start with [C]:
-  - Cisco[]
-  - CNN
+  - Cisco
+  - Cartier
 Brand names start with [D]:
   - Dell
   - Dyson
 Brand names start with [E]:
-  
+  - Emily
